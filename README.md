@@ -44,7 +44,7 @@ For easiest way to deploy this Bot click on the below button
 ##
 
 ## Find RMCMG_LAYLA_ROBOT on Telegram
-<a href="https://t.me/RMCMG_LAYLA_ROBOT"> <img src="https://img.shields.io/badge/RMCMG%20LAYALA%20ROBOT%20-blue" /> <img src="https://img.shields.io/badge/Best-Bot-ff69b4" /> </a>
+<a href="https://t.me/RMCMG_LAYLA_ROBOT"> <img src="https://img.shields.io/badge/RMCMG%20LAYLA%20ROBOT%20-blue" /> <img src="https://img.shields.io/badge/Best-Bot-ff69b4" /> </a>
 
 ##
 
